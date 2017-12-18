@@ -1,0 +1,12 @@
+div.width-limit{
+    max-width: 960px;
+    margin: auto;
+}
+.jumbotron{
+    text-align: center;
+}
+
+#ziomek-header{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-style: italic
+}
