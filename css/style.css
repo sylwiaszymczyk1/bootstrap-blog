@@ -10,3 +10,24 @@ div.width-limit{
     font-family: "Comic Sans MS", cursive, sans-serif;
     font-style: italic
 }
+
+.ramka{
+    border: 1px;
+    outline: solid;
+    outline-color: red;
+}
+
+.post-date{
+    color: red;
+    font-weight: bold;
+}
+
+.post-author{
+    color: green;
+    font-style: italic;
+
+}
+
+.blog-post:hover{
+    background: #CCC;
+}
